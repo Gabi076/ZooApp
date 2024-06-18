@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZooApp</string>
+    <string name="card_animal_name">Animal Name</string>
+    <string name="card_continent">Continent</string>
+</resources>
